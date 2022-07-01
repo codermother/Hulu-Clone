@@ -11,7 +11,8 @@ You can view the site here
 
 - ReactJS
 - NextJS
-- Tailwind CSS(with JIT!)
+- Tailwind CSS(with JIT)
+- TMDB (The Movie Database) API
 - Hero Icons
 - React-flip-move
 - Responsive Design
